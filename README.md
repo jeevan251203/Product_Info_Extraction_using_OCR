@@ -7,6 +7,3 @@ This project automates the extraction of product details from images. AWS Textra
 - **Python:** Programming language used.
 - **OpenCV:** For optional image preprocessing.
 
-## Example
-
-! [](Product_Info_Extraction_using_OCR/Example.png)
