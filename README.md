@@ -1,6 +1,5 @@
-# Product_Info_Extraction_using_OCR
+# Automated Product Info Extraction using OCR
 This project automates the extraction of product details from images. AWS Textract performs OCR to convert image text into machine-readable format. A custom NER model processes this text to identify important information like product name, brand, and price.
-# Automated Product Info Extraction from Images
 
 ## Technologies
 - **AWS Textract:** For OCR to extract text from images.
@@ -8,11 +7,3 @@ This project automates the extraction of product details from images. AWS Textra
 - **Python:** Programming language used.
 - **OpenCV:** For optional image preprocessing.
 
-## Setup Instructions
-
-### Configure AWS Textract
-1. **Sign Up for AWS:** [AWS](https://aws.amazon.com/).
-2. **Create IAM User:** Create an IAM user with `AmazonTextractFullAccess`.
-3. **Set Up AWS CLI:**
-   ```bash
-   aws configure
