@@ -9,4 +9,4 @@ This project automates the extraction of product details from images. AWS Textra
 
 ## Example
 
-! [](./Example.png)
+! [](Product_Info_Extraction_using_OCR/Example.png)
